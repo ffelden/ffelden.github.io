@@ -1,0 +1,71 @@
+primary_name: "Fabian Felden"
+secondary_name: ""
+navbar_name: "Fabian Felden"
+
+positions:
+- name: "M.Sc. Physics student · Machine Learning"
+- name: "University of Stuttgart, Institute for Computational Physics"
+
+email: "fabianfelden.ff@gmail.com"
+github: ffelden
+linkedin: fabian-felden-6006b2226
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am an M.Sc. Physics student at the University of Stuttgart, specializing in simulation methods
+    and statistical physics. In my master's thesis at the Institute for Computational Physics
+    (Prof. Christian Holm), I research whether the benefit of fine-tuning can be predicted before
+    training, using a gradient-based measure. Alongside my studies I work as an ML engineer at
+    Marmeladenbaum GmbH. Previously I worked on thermal laser epitaxy at the Max Planck Institute
+    for Solid State Research.
+  </p>
+  <p>
+    <strong>Research interests:</strong> predicting fine-tuning outcomes before training &middot;
+    evaluation and generalization of ML models &middot; simulation methods and statistical physics.
+  </p>
+  <p class="small text-muted mb-0">
+    <strong>Skills:</strong> Python, Linux, Machine Learning, LaTeX. &nbsp;
+    <strong>Languages:</strong> German (native), English (advanced).
+  </p>
+
+portrait_url: /assets/images/photo.jpg
+
+education:
+- name: University of Stuttgart
+  position: >-
+    M.Sc. Physics <br/>
+    Master's thesis at the Institute for Computational Physics (Prof. Christian Holm): researching
+    whether the benefit of fine-tuning can be predicted before training, using a gradient-based measure.
+  date: Apr 2025 - present
+- name: University of Stuttgart
+  position: >-
+    B.Sc. Physics <br/>
+    Bachelor's thesis: "Method for limiting the substrate temperatures during film growth by means of
+    pulsed vapor deposition processes" (Max Planck Institute for Solid State Research). Experimental
+    and simulation work.
+  date: Oct 2021 - Mar 2025
+
+experience:
+- name: Marmeladenbaum GmbH
+  position: >-
+    Working Student (ML Engineer / Data Scientist) <br/>
+    Building ML data pipelines and running analyses on large datasets. Also responsible for software
+    maintenance and development and internal IT infrastructure.
+  date: Apr 2024 - present
+- name: University of Stuttgart
+  position: >-
+    Working Student (Software Developer) <br/>
+    Development of the infrastructure for FAIR machine-learned interatomic potentials.
+  date: Nov 2022 - Sep 2023
+- name: Max Planck Institute for Solid State Research
+  position: >-
+    Working Student (HiWi) <br/>
+    Technical development of a fabrication process for thin films. The process was additionally
+    modelled digitally and its physical properties studied against theory.
+  date: Oct 2021 - Mar 2025
+- name: Max Planck Institute for Solid State Research
+  position: >-
+    Intern <br/>
+    Technical development of a fabrication process for thin films.
+  date: Aug 2020 - Sep 2021
