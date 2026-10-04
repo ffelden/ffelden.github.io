@@ -22,11 +22,7 @@ short_bio: >-
   </p>
   <p>
     <strong>Research interests:</strong> predicting fine-tuning outcomes before training &middot;
-    evaluation and generalization of ML models &middot; simulation methods and statistical physics.
-  </p>
-  <p class="small text-muted mb-0">
-    <strong>Skills:</strong> Python, Linux, Machine Learning, LaTeX. &nbsp;
-    <strong>Languages:</strong> German (native), English (advanced).
+    evaluation and generalization of ML models.
   </p>
 
 portrait_url: /assets/images/photo.jpg
